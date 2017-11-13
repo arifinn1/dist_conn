@@ -1,0 +1,14 @@
+.alert a { text-decoration: none; }
+
+.register-box select.form-control {
+    -moz-appearance: none;
+     -webkit-appearance: none;
+     appearance: none;
+}
+
+.link-footer {
+    padding-top:15px;
+}
+
+.logo .logo-mini>img { height: 25px; }
+.logo .logo-lg>img { height: 35px; }
